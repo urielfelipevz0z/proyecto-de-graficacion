@@ -52,3 +52,6 @@ Thumbs.db
 # Temporary files
 temp/
 tmp/
+
+# Copilot instructions
+.github/copilot-instructions.md
