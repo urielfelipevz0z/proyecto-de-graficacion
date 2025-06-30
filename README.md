@@ -48,3 +48,9 @@ El proyecto está construido sobre un ray tracer minimalista en C++ que incluye:
 - Modelo microfacet para materiales conductores
 - Limitación de rebotes (10 máximo)
 - Soporte para aluminio y oro con diferentes rugosidades
+
+## Aclaraciones
+- Las imágenes de referencia para el Proyecto 1, Proyecto 2 y Proyecto 3 se renderizaron considerando iluminación directa, sin efectos de iluminación global.
+- El Proyecto Final para las imágenes de referencia si incluye iluminación global y materiales conductores, con un enfoque en la precisión física de los materiales.
+- Sin embargo para las imágenes de los resultados de los proyectos 2, 3 y final, se considera iluminación global, por lo que las imágenes de referencia no son válidas para comparar los resultados de estos proyectos.
+- Esta es la única diferencia entre las imágenes de referencia y los resultados esperados de los proyectos 2, 3 y final.
